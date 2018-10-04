@@ -1,2 +1,2 @@
 # ShopingList
-Pang Araizaga Ernesto y Derian Espinoza
+Pang Araizaga Ernesto y Derian Uriel Espinosa Reséndiz
